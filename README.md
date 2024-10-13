@@ -10,7 +10,6 @@ Video Chaptering is the process of dividing a video into distinct segments, each
 - [Code Explanation](#code-explanation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 - [Author](#author)
 
 ## Introduction
